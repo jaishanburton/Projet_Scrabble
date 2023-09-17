@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1607370636 source:c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\main.c
+	"header_proj.h"
+
+1607377207 c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\header_proj.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1607370636 source:c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\menu.c
+	"header_proj.h"
+
+1607370636 source:c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\pioche.c
+	"header_proj.h"
+
+1607370636 source:c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\plateau.c
+	"header_proj.h"
+
+1607377207 source:c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\proj_ssp.c
+	"header_proj.h"
+
+1607377207 source:c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\joueur.c
+	"header_proj.h"
+
+1607393631 source:c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\main.c
+	"header_proj.h"
+
+1607393631 c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\header_proj.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
+1607388318 source:c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\menu.c
+	"header_proj.h"
+
+1607417017 source:c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\pioche.c
+	"header_proj.h"
+
+1607393631 source:c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\proj_ssp.c
+	"header_proj.h"
+
+1607393631 source:c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\plateau.c
+	"header_proj.h"
+
+1607393631 source:c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\sauvegarde chargement.c
+	"header_proj.h"
+
+1607377450 source:c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\sauvegarde chargement.c
+	"header_proj.h"
+
+1607288344 source:c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\score.c
+	"header_proj.h"
+
+1607377207 source:c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\partie.c
+	"header_proj.h"
+
+1607377207 source:c:\repertoire informatique\info 2021\projet info s1\ing-2021-projet-s1\scrabble\mot.c
+	"header_proj.h"
+
+1607393631 source:c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\joueur.c
+	"header_proj.h"
+
+1607393631 source:c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\mot.c
+	"header_proj.h"
+
+1607393631 source:c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\partie.c
+	"header_proj.h"
+
+1607393631 source:c:\répertoire informatique\projet d'informatique\projet info s1\ing-2021-projet-s1\scrabble\score.c
+	"header_proj.h"
+
